@@ -1,0 +1,13 @@
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.exe.config
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.exe
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.pdb
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csproj.AssemblyReference.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.Properties.Resources.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csproj.GenerateResource.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csproj.CoreCompileInputs.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.exe
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.pdb
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.ThongTinSinhVien.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.DiemSinhVien.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csproj.CopyComplete
