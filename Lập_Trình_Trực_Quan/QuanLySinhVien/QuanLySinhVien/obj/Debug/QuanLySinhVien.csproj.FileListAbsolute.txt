@@ -1,0 +1,13 @@
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThongTinSinhVien.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.DiemSinhVien.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.BangDiem.resources
+E:\Năm3-(KÌ I)\LTTQ\BTL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.login.resources
